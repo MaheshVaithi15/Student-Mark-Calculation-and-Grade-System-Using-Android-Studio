@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740613585573",
+    "firebase_url": "https://markcal-b867d-default-rtdb.firebaseio.com",
+    "project_id": "markcal-b867d",
+    "storage_bucket": "markcal-b867d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740613585573:android:011b0885f8dfd68833eb4c",
+        "android_client_info": {
+          "package_name": "com.example.markcal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740613585573-p3jkv4uqc8h8pbvhstuo02kctnkughse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm95e8kUXTVpzc2UaQLx5Lt9zmryabQEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740613585573-p3jkv4uqc8h8pbvhstuo02kctnkughse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
